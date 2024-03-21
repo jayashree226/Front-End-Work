@@ -1,0 +1,22 @@
+body {
+    background-color: darkslategrey;
+    color: black;
+    font-size: 1.2em;
+}
+h1 {
+    color: coral;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: blue;
+}
+
+section { border: 8px solid black; padding: 10px; background-color:#dbfffe; }
+
+/* .login-user {
+    height: 1em;
+    margin-right: 0.5em;
+    vertical-align: bottom;
+ } */
